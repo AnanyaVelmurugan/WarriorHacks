@@ -1,5 +1,6 @@
 # Theme: Build a tool that breaks down barriers to learning, making education more inclusive, accessible, and impactful.
 # Ananya Velmurugan & Sudarshini Seth (WarriorHacks)
+# We used AI to generate code while making this project (ChatGPT)
 
 # IMPORTS
 import streamlit as st
